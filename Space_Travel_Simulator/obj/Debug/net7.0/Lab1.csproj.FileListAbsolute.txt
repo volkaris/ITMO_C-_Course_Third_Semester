@@ -1,0 +1,13 @@
+C:\Users\Ilya\Documents\GitHub\volkaris\src\Lab1\bin\Debug\net7.0\Lab1.deps.json
+C:\Users\Ilya\Documents\GitHub\volkaris\src\Lab1\bin\Debug\net7.0\Lab1.dll
+C:\Users\Ilya\Documents\GitHub\volkaris\src\Lab1\bin\Debug\net7.0\Lab1.pdb
+C:\Users\Ilya\Documents\GitHub\volkaris\src\Lab1\bin\Debug\net7.0\Lab1.xml
+C:\Users\Ilya\Documents\GitHub\volkaris\src\Lab1\obj\Debug\net7.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya\Documents\GitHub\volkaris\src\Lab1\obj\Debug\net7.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\Ilya\Documents\GitHub\volkaris\src\Lab1\obj\Debug\net7.0\Lab1.AssemblyInfo.cs
+C:\Users\Ilya\Documents\GitHub\volkaris\src\Lab1\obj\Debug\net7.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\Documents\GitHub\volkaris\src\Lab1\obj\Debug\net7.0\Lab1.dll
+C:\Users\Ilya\Documents\GitHub\volkaris\src\Lab1\obj\Debug\net7.0\refint\Lab1.dll
+C:\Users\Ilya\Documents\GitHub\volkaris\src\Lab1\obj\Debug\net7.0\Lab1.xml
+C:\Users\Ilya\Documents\GitHub\volkaris\src\Lab1\obj\Debug\net7.0\Lab1.pdb
+C:\Users\Ilya\Documents\GitHub\volkaris\src\Lab1\obj\Debug\net7.0\ref\Lab1.dll

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "BagaCt0QaXDnwYaMsllIP9eFNMFMz5X6gSB+e5KtjgE/EFQewQjjYHRVyfRCscUU7IlQoG0rPT/DY8sYtSmZ4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ilya\\Documents\\GitHub\\volkaris\\src\\Lab1\\Lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ilya\\.nuget\\packages\\sourcekit\\1.1.21\\sourcekit.1.1.21.nupkg.sha512",
+    "C:\\Users\\Ilya\\.nuget\\packages\\sourcekit.analyzers.collections\\1.0.21\\sourcekit.analyzers.collections.1.0.21.nupkg.sha512",
+    "C:\\Users\\Ilya\\.nuget\\packages\\sourcekit.analyzers.enumerable\\1.0.21\\sourcekit.analyzers.enumerable.1.0.21.nupkg.sha512",
+    "C:\\Users\\Ilya\\.nuget\\packages\\sourcekit.analyzers.memberaccessibility\\1.0.21\\sourcekit.analyzers.memberaccessibility.1.0.21.nupkg.sha512",
+    "C:\\Users\\Ilya\\.nuget\\packages\\sourcekit.analyzers.nullable\\1.0.21\\sourcekit.analyzers.nullable.1.0.21.nupkg.sha512",
+    "C:\\Users\\Ilya\\.nuget\\packages\\sourcekit.analyzers.properties\\1.0.21\\sourcekit.analyzers.properties.1.0.21.nupkg.sha512",
+    "C:\\Users\\Ilya\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.507\\stylecop.analyzers.1.2.0-beta.507.nupkg.sha512",
+    "C:\\Users\\Ilya\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.507\\stylecop.analyzers.unstable.1.2.0.507.nupkg.sha512"
+  ],
+  "logs": []
+}

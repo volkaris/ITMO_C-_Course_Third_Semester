@@ -1,0 +1,297 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "SourceKit/1.1.21": {
+        "type": "package"
+      },
+      "SourceKit.Analyzers.Collections/1.0.21": {
+        "type": "package",
+        "dependencies": {
+          "SourceKit": "1.1.21"
+        }
+      },
+      "SourceKit.Analyzers.Enumerable/1.0.21": {
+        "type": "package",
+        "dependencies": {
+          "SourceKit": "1.1.21"
+        }
+      },
+      "SourceKit.Analyzers.MemberAccessibility/1.0.21": {
+        "type": "package",
+        "dependencies": {
+          "SourceKit": "1.1.21"
+        }
+      },
+      "SourceKit.Analyzers.Nullable/1.0.21": {
+        "type": "package",
+        "dependencies": {
+          "SourceKit": "1.1.21"
+        }
+      },
+      "SourceKit.Analyzers.Properties/1.0.21": {
+        "type": "package",
+        "dependencies": {
+          "SourceKit": "1.1.21"
+        }
+      },
+      "StyleCop.Analyzers/1.2.0-beta.507": {
+        "type": "package",
+        "dependencies": {
+          "StyleCop.Analyzers.Unstable": "1.2.0.507"
+        }
+      },
+      "StyleCop.Analyzers.Unstable/1.2.0.507": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "SourceKit/1.1.21": {
+      "sha512": "v69SW1qCTmhOuJ6HoRF77imQHwh5bOmXsLPy/nmME/14KMfFceYQ8DRtgnCjxt4+OTCulGAVTDEp0QQgVVvN8Q==",
+      "type": "package",
+      "path": "sourcekit/1.1.21",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "analyzers/dotnet/cs/SourceKit.dll",
+        "sourcekit.1.1.21.nupkg.sha512",
+        "sourcekit.nuspec"
+      ]
+    },
+    "SourceKit.Analyzers.Collections/1.0.21": {
+      "sha512": "JZ6++XeYEtdRtx1FTq3H5kavSGKMFK4XA0+JiJGjtL3ulQsEmHj7TTqiy0A4ShIj82x4hx+E05y9/LLnseXWZQ==",
+      "type": "package",
+      "path": "sourcekit.analyzers.collections/1.0.21",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "analyzers/dotnet/cs/SourceKit.Analyzers.Collections.dll",
+        "sourcekit.analyzers.collections.1.0.21.nupkg.sha512",
+        "sourcekit.analyzers.collections.nuspec"
+      ]
+    },
+    "SourceKit.Analyzers.Enumerable/1.0.21": {
+      "sha512": "p3N16G1kToYBhusoZyraS1gkk2X63DpITyQPPr/dtVQaag+Vo8dYTRipFY+XsWold5bjAE7aLOOEy5iOEeoGXg==",
+      "type": "package",
+      "path": "sourcekit.analyzers.enumerable/1.0.21",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "analyzers/dotnet/cs/SourceKit.Analyzers.Enumerable.dll",
+        "sourcekit.analyzers.enumerable.1.0.21.nupkg.sha512",
+        "sourcekit.analyzers.enumerable.nuspec"
+      ]
+    },
+    "SourceKit.Analyzers.MemberAccessibility/1.0.21": {
+      "sha512": "JWNdyaCtgH2YcSe5vNh4TTDhl48aYusODZCfiIs6Lo/nyk7XcEHDb9E8af0ntinICE4Dx491UAj63lCyKxrrTA==",
+      "type": "package",
+      "path": "sourcekit.analyzers.memberaccessibility/1.0.21",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "analyzers/dotnet/cs/SourceKit.Analyzers.MemberAccessibility.dll",
+        "sourcekit.analyzers.memberaccessibility.1.0.21.nupkg.sha512",
+        "sourcekit.analyzers.memberaccessibility.nuspec"
+      ]
+    },
+    "SourceKit.Analyzers.Nullable/1.0.21": {
+      "sha512": "T2iY/VzbFveAcKKnXg9ruB/in/fFykur/JFBIjx6TD/O9fkSQgYBA20kV88/fkN6OXT3qFCdg07sdVmnirHWXA==",
+      "type": "package",
+      "path": "sourcekit.analyzers.nullable/1.0.21",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "analyzers/dotnet/cs/SourceKit.Analyzers.Nullable.dll",
+        "sourcekit.analyzers.nullable.1.0.21.nupkg.sha512",
+        "sourcekit.analyzers.nullable.nuspec"
+      ]
+    },
+    "SourceKit.Analyzers.Properties/1.0.21": {
+      "sha512": "U759EgvjilAQZb6f6sYmmZzVpT2/iEpB1mcGjqkNDTg0YD1U2pW818+kkMqFkhy1p2sbPiHzNJ11oXafvw1/LQ==",
+      "type": "package",
+      "path": "sourcekit.analyzers.properties/1.0.21",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "analyzers/dotnet/cs/SourceKit.Analyzers.Properties.dll",
+        "sourcekit.analyzers.properties.1.0.21.nupkg.sha512",
+        "sourcekit.analyzers.properties.nuspec"
+      ]
+    },
+    "StyleCop.Analyzers/1.2.0-beta.507": {
+      "sha512": "/FtugDT66cKJJ+GGH7rNpG6UDrT4iIWz45M6lrXXHobDUFDHw+q5VgkbiR+6ffTO564ge7w6fQh/eoQhVdJO8Q==",
+      "type": "package",
+      "path": "stylecop.analyzers/1.2.0-beta.507",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt",
+        "stylecop.analyzers.1.2.0-beta.507.nupkg.sha512",
+        "stylecop.analyzers.nuspec"
+      ]
+    },
+    "StyleCop.Analyzers.Unstable/1.2.0.507": {
+      "sha512": "gTY3IQdRqDJ4hbhSA3e/R48oE8b/OiKfvwkt1QdNVfrJK2gMHBV8ldaHJ885jxWZfllK66soa/sdcjh9bX49Tw==",
+      "type": "package",
+      "path": "stylecop.analyzers.unstable/1.2.0.507",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt",
+        "analyzers/dotnet/cs/StyleCop.Analyzers.CodeFixes.dll",
+        "analyzers/dotnet/cs/StyleCop.Analyzers.dll",
+        "analyzers/dotnet/cs/de-DE/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/en-GB/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/es-MX/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/fr-FR/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/pl-PL/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/pt-BR/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/ru-RU/StyleCop.Analyzers.resources.dll",
+        "rulesets/StyleCopAnalyzersDefault.ruleset",
+        "stylecop.analyzers.unstable.1.2.0.507.nupkg.sha512",
+        "stylecop.analyzers.unstable.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "SourceKit.Analyzers.Collections >= 1.0.21",
+      "SourceKit.Analyzers.Enumerable >= 1.0.21",
+      "SourceKit.Analyzers.MemberAccessibility >= 1.0.21",
+      "SourceKit.Analyzers.Nullable >= 1.0.21",
+      "SourceKit.Analyzers.Properties >= 1.0.21",
+      "StyleCop.Analyzers >= 1.2.0-beta.507"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ilya\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ilya\\Documents\\GitHub\\volkaris\\src\\Lab1\\Lab1.csproj",
+      "projectName": "Lab1",
+      "projectPath": "C:\\Users\\Ilya\\Documents\\GitHub\\volkaris\\src\\Lab1\\Lab1.csproj",
+      "packagesPath": "C:\\Users\\Ilya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ilya\\Documents\\GitHub\\volkaris\\src\\Lab1\\obj\\",
+      "projectStyle": "PackageReference",
+      "centralPackageVersionsManagementEnabled": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Ilya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "allWarningsAsErrors": true,
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "SourceKit.Analyzers.Collections": {
+            "target": "Package",
+            "version": "[1.0.21, )",
+            "versionCentrallyManaged": true
+          },
+          "SourceKit.Analyzers.Enumerable": {
+            "target": "Package",
+            "version": "[1.0.21, )",
+            "versionCentrallyManaged": true
+          },
+          "SourceKit.Analyzers.MemberAccessibility": {
+            "target": "Package",
+            "version": "[1.0.21, )",
+            "versionCentrallyManaged": true
+          },
+          "SourceKit.Analyzers.Nullable": {
+            "target": "Package",
+            "version": "[1.0.21, )",
+            "versionCentrallyManaged": true
+          },
+          "SourceKit.Analyzers.Properties": {
+            "target": "Package",
+            "version": "[1.0.21, )",
+            "versionCentrallyManaged": true
+          },
+          "StyleCop.Analyzers": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[1.2.0-beta.507, )",
+            "versionCentrallyManaged": true
+          }
+        },
+        "centralPackageVersions": {
+          "coverlet.collector": "[6.0.0, )",
+          "Crayon": "[2.0.69, )",
+          "Microsoft.NET.Test.Sdk": "[17.9.0-preview-23531-01, )",
+          "NSubstitute": "[5.1.0, )",
+          "SourceKit.Analyzers.Collections": "[1.0.21, )",
+          "SourceKit.Analyzers.Enumerable": "[1.0.21, )",
+          "SourceKit.Analyzers.MemberAccessibility": "[1.0.21, )",
+          "SourceKit.Analyzers.Nullable": "[1.0.21, )",
+          "SourceKit.Analyzers.Properties": "[1.0.21, )",
+          "StyleCop.Analyzers": "[1.2.0-beta.507, )",
+          "xunit": "[2.6.1, )",
+          "xunit.runner.visualstudio": "[2.5.3, )"
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
