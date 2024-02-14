@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <RootNamespace>Itmo.ObjectOrientedProgramming.Lab3</RootNamespace>
+        <OutputType>Exe</OutputType>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Crayon"/>
+        <PackageReference Include="NSubstitute"/>
+    </ItemGroup>
+
+
+    <ItemGroup>
+        <Folder Include="Entities\InputtableEntities\"/>
+    </ItemGroup>
+
+</Project>
